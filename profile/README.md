@@ -14,8 +14,7 @@ This project is currently in development. Stay tuned for exciting updates and fe
 
 ## Support
 For any inquiries, feel free to reach out:
-- Email: support@stealthstartupapi.com
-
+-Via Pull Request & Issues
 ---
 
 Thank you for your interest and support!
